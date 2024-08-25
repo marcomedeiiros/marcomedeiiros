@@ -17,7 +17,7 @@
 Buscar conhecimento e aprimoramento continuo e um principio que construí na minha vida.
 
 
-## Mais sobre mim...
+## Mais sobre mim
 - [Meu Portfólio](https://marcomedeiiros.github.io/portifolio/#)
 <br/>
 
