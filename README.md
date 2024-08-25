@@ -23,6 +23,3 @@ Buscar conhecimento e aprimoramento continuo e um principio que construí na min
 
 - [Meu Linkedin](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
 <br/>
-
-- [Meu github](https://github.com/marcomedeiiros)
-<br/>
