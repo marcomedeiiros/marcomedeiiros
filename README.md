@@ -4,6 +4,13 @@
 **`Desenvolvedor de Sistemas`**
 
 Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Concluí o ensino médio no Colégio Marista Champagnat e recentemente finalizei o curso de Desenvolvimento de Sistemas no SENAI pela empresa VALE. Sou apaixonado por tecnologia e estou sempre buscando aprimorar minhas habilidades na área de TI, focando no desenvolvimento de sistemas e na resolução de desafios tecnológicos.
+<br/>
+
+- [Meu Portfólio](https://marcomedeiiros.github.io/portifolio/#)
+<br/>
+
+- [Meu Linkedin](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
+<br/>
 
 ### 📊 Estatísticas
 
@@ -59,12 +66,3 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Conclu�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
 </div>
-<br/>
-<br/>
-
-## Mais sobre mim
-- [Meu Portfólio](https://marcomedeiiros.github.io/portifolio/#)
-<br/>
-
-- [Meu Linkedin](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
-<br/>
