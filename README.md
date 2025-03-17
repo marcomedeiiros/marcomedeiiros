@@ -8,7 +8,9 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Conclu�
 
 - [Meu Portfólio](https://marcomedeiiros.github.io/portifolio/#)
 
-- [Meu Linkedin](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
+- <a href="https://www.linkedin.com/in/marco-medeiros-3bba38324/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40px" alt="LinkedIn" />
+</a>
 
 ### 📊 Estatísticas
 
