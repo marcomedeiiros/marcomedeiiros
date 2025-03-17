@@ -1,4 +1,3 @@
-
 # 👨🏻‍💻 Marco Medeiros 
 
 **`Desenvolvedor de Sistemas`**
@@ -26,7 +25,7 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Conclu�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
     <img align="left" 
     alt="css3" 
-    title="css"
+    title="css3"
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
     <img align="left" 
@@ -58,11 +57,11 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Conclu�
     alt="node" 
     title="node"
     width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
     <img align="left" 
     alt="git" 
     title="git"
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
+
 </div>
