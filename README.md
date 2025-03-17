@@ -1,20 +1,29 @@
 
-### Olá! Eu sou o Marco 👋🏻
+# Marco Medeiros 👨🏻‍💻
+
+**`Desenvolvedor de Sistemas`**
+
+### 🤖 Estatísticas
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=marcomedeiiros&show_icons=true&theme=transparent)
 
-## Tecnologias que eu utilizo
+### 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<div style="display: inline_block"><br/>  
+    <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
+    <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+    <img align="center" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />             
+    <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
+    <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />              
+    <img align="center" alt="bancodedados" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
+    <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />              
+    <img align="center" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />    
+    <img align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+          
 </div><br/>
 
-Buscar conhecimento e aprimoramento continuo e um principio que construí na minha vida.
+Olá, sou Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Concluí o ensino médio no Colégio Marista Champagnat e recentemente finalizei o curso de Desenvolvimento de Sistemas no SENAI pela empresa VALE. Sou apaixonado por tecnologia e estou sempre buscando aprimorar minhas habilidades na área de TI, focando no desenvolvimento de sistemas e na resolução de desafios tecnológicos.
 
 
 ## Mais sobre mim
