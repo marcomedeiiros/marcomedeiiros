@@ -11,7 +11,7 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Recente
 </a>
 
 <a href="https://marcomedeiiros.github.io/portifolio/#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=githubpages&logoColor=000080" alt="Portfólio"/>
 </a>
 
 ### 📊 Estatísticas
