@@ -4,7 +4,7 @@
 
 - [Meu Portfólio](https://marcomedeiiros.github.io/portifolio/#)
 
-Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Concluí o ensino médio no Colégio Marista Champagnat e recentemente finalizei o curso de Desenvolvimento de Sistemas no SENAI pela empresa VALE. Sou apaixonado por tecnologia e estou sempre buscando aprimorar minhas habilidades na área de TI, focando no desenvolvimento de sistemas e na resolução de desafios tecnológicos.
+Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Recentemente finalizei o curso técnico de Desenvolvimento de Sistemas no SENAI, realizado em parceria com a empresa VALE. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na Universidade Vila Velha (UVV). Sou apaixonado por tecnologia e estou sempre buscando aprimorar minhas habilidades na área de TI, com foco no desenvolvimento de sistemas e na solução de desafios tecnológicos.
 <br/>
 
 <a href="https://www.linkedin.com/in/marco-medeiros-3bba38324/" target="_blank">
