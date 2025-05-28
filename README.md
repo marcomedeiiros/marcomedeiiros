@@ -5,10 +5,12 @@
 Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Recentemente finalizei o curso técnico de Desenvolvimento de Sistemas no SENAI, realizado em parceria com a empresa VALE. Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas na Universidade Vila Velha (UVV). Sou apaixonado por tecnologia e estou sempre buscando aprimorar minhas habilidades na área de TI, com foco no desenvolvimento de sistemas e na solução de desafios tecnológicos.
 <br/>
 
-<p align="left">  
+<p align="left">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
 &nbsp;
 [![Portfólio](https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/portifolio/#)
+
 </p>
 
 
