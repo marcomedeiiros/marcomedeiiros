@@ -64,9 +64,19 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Recente
     width="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align="left" 
-    alt="git" 
-    title="git"
+    alt="python" 
+    title="python"
     width="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="left" 
+    alt="c++" 
+    title="c++"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img align="left" 
+    alt="powerbi" 
+    title="powerbi"
+    width="50px"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 
 </div>
