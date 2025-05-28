@@ -6,12 +6,12 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Recente
 <br/>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/marco-medeiros-3bba38324/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/marco-medeiros-3bba38324/" target="_blank" rel="noopener noreferrer nofollow" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" alt="LinkedIn" />
   </a>
 
-  <a href="https://marcomedeiiros.github.io/portifolio/#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+  <a href="https://marcomedeiiros.github.io/portifolio/#" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" style="max-width: 100%;" alt="Portfólio" />
   </a>
 </p>
 
