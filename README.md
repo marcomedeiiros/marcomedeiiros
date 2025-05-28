@@ -9,7 +9,7 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Recente
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
 &nbsp;
-[![Portfólio](https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/portifolio/#)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00008b?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/portifolio/#)
 
 </p>
 
