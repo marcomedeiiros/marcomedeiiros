@@ -63,5 +63,10 @@ Me chamo Marco Medeiros, tenho 20 anos e sou natural do Espírito Santo. Recente
     title="git"
     width="50px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img align="left" 
+    alt="git" 
+    title="git"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 </div>
