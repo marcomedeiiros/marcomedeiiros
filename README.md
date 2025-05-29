@@ -4,7 +4,7 @@
 
 Olá! Sou Marco Medeiros, desenvolvedor full stack com 20 anos, natural do Espírito Santo. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI em parceria com a Vale, onde atuei como jovem aprendiz.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Vila Velha (UVV), e sigo aprimorando minhas habilidades em desenvolvimento web, análise de dados e metodologias ágeis. Tenho interesse em projetos que unam inovação, boas práticas de código e impacto real nos usuários.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Vila Velha (UVV), e sigo aprimorando minhas habilidades em desenvolvimento de sistemas, análise de dados e metodologias ágeis. Tenho interesse em projetos que unam inovação, boas práticas de código e impacto real nos usuários.
 
 Estou em busca de desafios que me permitam crescer profissionalmente e contribuir com soluções tecnológicas de alto nível.
 <br/>
