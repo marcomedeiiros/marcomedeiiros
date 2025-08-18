@@ -13,7 +13,7 @@ Estou em busca de desafios que me permitam crescer profissionalmente e contribui
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
 &nbsp;
-[![Portfólio](https://img.shields.io/badge/Portfólio-11399c?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/portifolio/#)
+[![Portfólio](https://img.shields.io/badge/Portfólio-11399c?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/Portfolio/)
 
 </p>
 
