@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Marco%20Medeiros&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=200&section=header&text=Marco%20Medeiros&fontSize=60&animation=fadeIn&fontAlignY=50" width="100%" />
 
-  ### 🚀 Desenvolvedor Full Stack | Analista de Sistemas
+  ### ⚡️ Desenvolvedor Full Stack & Analista de Sistemas
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
-  [![GitHub Portfólio](https://img.shields.io/badge/Portfólio-11399c?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/Portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Link-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
+  [![GitHub Portfólio](https://img.shields.io/badge/Portfólio-Web-11399c?style=flat-square&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/Portfolio/)
+
 </div>
 
 ---
@@ -13,16 +14,16 @@
 
 Sou um desenvolvedor full stack de **21 anos**, natural do Espírito Santo. Minha jornada na tecnologia começou com um curso técnico em Desenvolvimento de Sistemas pelo **SENAI** em parceria com a **Vale**.
 
-- Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Vila Velha (UVV).
-- Atualmente focado em aprimorar habilidades em **desenvolvimento de sistemas**, **análise de dados** e **metodologias ágeis**.
-- Busco unir inovação e boas práticas de código para gerar impacto real nos usuários.
-- Estou sempre em busca de novos desafios tecnológicos de alto nível.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Vila Velha (UVV).
+- 💻 Atualmente focado em aprimorar habilidades em **desenvolvimento de sistemas**, **análise de dados** e **metodologias ágeis**.
+- 🚀 Busco unir inovação e boas práticas de código para gerar impacto real nos usuários.
+- 🌱 Estou sempre em busca de novos desafios tecnológicos de alto nível.
 
 ---
 
 ### 🛠️ Linguagens e Tecnologias
 
-#### 💻 Front-end & Design
+#### 🎨 Front-end & Design
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,17 +45,18 @@ Sou um desenvolvedor full stack de **21 anos**, natural do Espírito Santo. Minh
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcomedeiiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomedeiiros&layout=compact&theme=dracula" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcomedeiiros&theme=dracula" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcomedeiiros&theme=dracula" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcomedeiiros&theme=dracula&no-bg=true&no-frame=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marcomedeiiros&theme=dracula&no-bg=true&column=4&no-frame=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Layout desenvolvido por <a href="https://github.com/marcomedeiiros">Marco Medeiros</a>. © 2026</sub>
 </div>
 
 ---
