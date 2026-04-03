@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=713aed&height=250&section=header&text=Marco%20Medeiros&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Marco%20Medeiros&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
   ### 🚀 Desenvolvedor Full Stack | Analista de Sistemas
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
   [![GitHub Portfólio](https://img.shields.io/badge/Portfólio-11399c?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/Portfolio/)
-  [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcomedeiiroscontato@gmail.com)
-
 </div>
 
 ---
@@ -15,10 +13,10 @@
 
 Sou um desenvolvedor full stack de **21 anos**, natural do Espírito Santo. Minha jornada na tecnologia começou com um curso técnico em Desenvolvimento de Sistemas pelo **SENAI** em parceria com a **Vale**.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Vila Velha (UVV).
-- 🔭 Atualmente focado em aprimorar habilidades em **desenvolvimento de sistemas**, **análise de dados** e **metodologias ágeis**.
-- 💡 Busco unir inovação e boas práticas de código para gerar impacto real nos usuários.
-- 🌱 Estou sempre em busca de novos desafios tecnológicos de alto nível.
+- Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Vila Velha (UVV).
+- Atualmente focado em aprimorar habilidades em **desenvolvimento de sistemas**, **análise de dados** e **metodologias ágeis**.
+- Busco unir inovação e boas práticas de código para gerar impacto real nos usuários.
+- Estou sempre em busca de novos desafios tecnológicos de alto nível.
 
 ---
 
@@ -34,7 +32,6 @@ Sou um desenvolvedor full stack de **21 anos**, natural do Espírito Santo. Minh
 #### ⚙️ Back-end & Bancos de Dados
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
