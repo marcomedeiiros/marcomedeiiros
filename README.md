@@ -44,12 +44,17 @@ Sou um desenvolvedor full stack de **21 anos**, natural do Espírito Santo. Minh
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcomedeiiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomedeiiros&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcomedeiiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomedeiiros&layout=compact&theme=dracula" width="48%" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcomedeiiros&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcomedeiiros&theme=dracula" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcomedeiiros&theme=dracula" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcomedeiiros&theme=dracula&no-bg=true&no-frame=true" width="100%" />
 </div>
 
 ---
