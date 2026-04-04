@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:713aed&height=250&section=header&text=Marco%20Medeiros&fontSize=70&animation=fadeIn&fontAlignY=35" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,80:713aed&height=250&section=header&text=Marco%20Medeiros&fontSize=70&animation=fadeIn&fontAlignY=35" width="80%" />
 
   ### ⚡️ Desenvolvedor Full Stack & Analista de Sistemas
   
