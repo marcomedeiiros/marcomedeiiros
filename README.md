@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:713aed&height=250&section=header&text=Marco%20Medeiros&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
+  ### 🚀 Desenvolvedor Full Stack
   **`Análise e Desenvolvimento de Sistemas`**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
