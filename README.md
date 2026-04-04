@@ -3,8 +3,9 @@
 
   ### ⚡️ Desenvolvedor Full Stack & Analista de Sistemas
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Link-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
-  [![GitHub Portfólio](https://img.shields.io/badge/Portfólio-Web-11399c?style=flat-square&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/Portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-medeiros-3bba38324/)
+  &nbsp;
+  [![Portfólio](https://img.shields.io/badge/Portfólio-11399c?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcomedeiiros.github.io/Portfolio/)
 
 </div>
 
@@ -12,12 +13,11 @@
 
 ### 👨🏻‍💻 Sobre Mim
 
-Sou um desenvolvedor full stack de **21 anos**, natural do Espírito Santo. Minha jornada na tecnologia começou com um curso técnico em Desenvolvimento de Sistemas pelo **SENAI** em parceria com a **Vale**.
+Olá! Sou Marco Medeiros, desenvolvedor full stack com 21 anos, natural do Espírito Santo. Concluí o curso técnico em Desenvolvimento de Sistemas pelo **SENAI** em parceria com a **Vale**, onde atuei como jovem aprendiz.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Vila Velha (UVV).
-- 💻 Atualmente focado em aprimorar habilidades em **desenvolvimento de sistemas**, **análise de dados** e **metodologias ágeis**.
-- 🚀 Busco unir inovação e boas práticas de código para gerar impacto real nos usuários.
-- 🌱 Estou sempre em busca de novos desafios tecnológicos de alto nível.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Vila Velha (UVV), e sigo aprimorando minhas habilidades em desenvolvimento de sistemas, análise de dados e metodologias ágeis. Tenho interesse em projetos que unam inovação, boas práticas de código e impacto real nos usuários.
+
+Estou em busca de desafios que me permitam crescer profissionalmente e contribuir com soluções tecnológicas de alto nível.
 
 ---
 
@@ -51,12 +51,6 @@ Sou um desenvolvedor full stack de **21 anos**, natural do Espírito Santo. Minh
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marcomedeiiros&theme=dracula&no-bg=true&column=4&no-frame=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Layout desenvolvido por <a href="https://github.com/marcomedeiiros">Marco Medeiros</a>. © 2026</sub>
 </div>
 
 ---
